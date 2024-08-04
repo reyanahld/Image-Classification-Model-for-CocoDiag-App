@@ -1,0 +1,3 @@
+### Image Classification Model for CocoDiag App ###
+---
+CocoDiag is an application designed to detect coconut plant diseases through images of coconut plants uploaded by farmers. The goal is to help coconut farmers detect plant diseases more quickly and efficiently. Over 3000 images of coconut plant diseases were used to build the model. The dataset then undergoes a preprocessing phase before moving on to the model-building stage. In this project, disease detection employs image classification machine learning by combining CNN and transfer learning. The model is then evaluated for performance using accuracy, sensitivity, and specificity.
