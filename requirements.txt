@@ -1,0 +1,9 @@
+tensorflow
+PIL
+os
+matplotlib
+numpy
+sklearn
+seaborn
+json
+zipfile
